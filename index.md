@@ -1,3 +1,3 @@
 ---
-title:test2
+title: test
 ---
