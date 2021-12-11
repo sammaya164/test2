@@ -1,5 +1,4 @@
 ---
-title: test
-discription: testdiscription
+layout: home
 ---
 
