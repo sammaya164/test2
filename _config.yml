@@ -1,4 +1,4 @@
-remote_theme: sammaya164/widows-95-sa1
+# remote_theme: sammaya164/widows-95-sa1
 
 permalink: /:year:month:day/:title
 url: #Your url here
